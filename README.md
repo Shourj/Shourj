@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![snake gif](https://github.com/Shourj/Shourj/blob/output/github-contribution-grid-snake.gif)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shourj&layout=compact&theme=monokai&border_radius=10&card_width=440&hide_border=true)
